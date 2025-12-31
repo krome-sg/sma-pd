@@ -10,6 +10,15 @@ This project converts Squarespace exports (WordPress XML format) into Markdown f
 - **Website URL**: https://pd.mediaacademy.sg/
 - **Sitemap URL**: https://pd.mediaacademy.sg/sitemap.xml
 
+### Programmes
+
+The website features the following main programmes:
+
+- **Funded Programmes**
+- **Funded Mentorship Support**
+- **Corporate Training**
+- **Masterclasses**
+
 ## Session Summary
 
 ### Date: December 31, 2025
