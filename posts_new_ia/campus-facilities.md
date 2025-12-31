@@ -1,0 +1,24 @@
+---
+title: Campus and Facilities
+date: Sat, 05 Oct 2024 21:26:05 +0000
+---
+# Campus and Facilities
+
+Housed within the 800,000 sq ft campus of the Singapore's National Broadcaster - Mediacorp, Singapore Media Academy is equipped with industry grade facilities which ensures that our students learn with equipment that the industry uses within a broadcast environment. The suite of training facilities include:
+TV StudioSeating Capacity: 216 paxFloor Area: 367.79 sm
+Media LabSeating Capacity: 20 paxFloor Area: 52.84 sm
+Classroom: The Vista 1 Seating Capacity: 40 paxFloor Area: 68.06 sm
+Classroom: The Vista 2 Seating Capacity: 30 paxFloor Area: 50.42 sm
+Dance StudioSeating Capacity: 40 paxFloor Area: 66.36 sm
+
+#### Images
+
+![Media Lab](../img/Media%2BLab.jpeg?format=original)
+
+![Dance Studio](../img/Dance%2BStudio.jpeg?format=original)
+
+![Studio 4 1](../img/Studio%2B4_1.jpg?format=original)
+
+![Vista 2](../img/Vista%2B2.jpeg?format=original)
+
+![Vista 1](../img/Vista%2B1.jpeg?format=original)
