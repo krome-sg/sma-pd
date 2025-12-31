@@ -4,6 +4,12 @@
 
 This project converts Squarespace exports (WordPress XML format) into Markdown files and downloads associated images. It's designed to help migrate Squarespace content to platforms like Jekyll, Hugo, or Ghost.
 
+### Source Website Information
+
+- **Website Title**: SMA Professional Development Website
+- **Website URL**: https://pd.mediaacademy.sg/
+- **Sitemap URL**: https://pd.mediaacademy.sg/sitemap.xml
+
 ## Session Summary
 
 ### Date: December 31, 2025
@@ -27,6 +33,14 @@ This project converts Squarespace exports (WordPress XML format) into Markdown f
    - Copied `xml/squarespace.xml` to root directory (script expects it there)
    - Ran: `python3 script.py --download_images`
    - Script executed successfully
+
+4. **Created Image Mapping Tools**
+   - Created `map_images_to_pages.py` to analyze which images belong to which pages
+   - Generated JSON mapping files:
+     - `image_mapping_pages_to_images.json` - Maps each page to its images
+     - `image_mapping_images_to_pages.json` - Maps each image to pages that use it
+   - Created `add_images_to_markdown.py` to add image references back to markdown files
+   - Successfully added image references to 51 markdown files
 
 ### Execution Results
 
