@@ -1,0 +1,7 @@
+---
+title: SFDW Fundamentals of a Professional in a Digital Workplace
+date: Thu, 02 Jan 2020 16:00:00 +0000
+---
+OverviewThis course will cover fundamental skills in today’s digital workplace.Topics like digital trends and changing digital requirements, functional and useful apps that will boost productivity, discerning what constitutes fake news, guarding the interest of your company against data breaches and cybersecurity will be included.The key topics are:Understand the work trends and job requirements of the futureNavigate through popular and useful apps in your daily lifeUnderstand the importance of cybersecurity in daily and work applicationsData analytics and how data can be used at workIdentify fake newsEmbrace learning and upskillingWho Should AttendExecutives, Senior Executives and aboveDuration2 DaysTime9:00am to 6:00pmFee (Inclusive of 7% GST)Full Fee: S$642.00For Singapore Citizens and Permanent Residents -Fee after SSG Funding*: S$50Fee after SSG and NETF# Funding*: S$10For Long Term Visit Pass Plus (LTVP+) Holders -Fee after SSG Funding*: S$50 *Terms and conditions apply#NTUC-Education and Training Fund (NETF) - Applicable for NTUC Members only. More Information:  NETF@SFDW  |  FAQs
+
+ Back to SkillsFuture for Digital Workplace
